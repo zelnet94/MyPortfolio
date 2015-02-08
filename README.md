@@ -4,4 +4,4 @@ Portfolio site in testing phase
 
 My github user page can be found at: www.github.com/zelmundo94
 
-Soon, you will be able to see my customized website portfolio at: http://www.zelmundo94.github.io
+Soon, you will be able to see my customized website portfolio at: http://zelmundo94.github.io

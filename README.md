@@ -4,4 +4,4 @@ Portfolio site in testing phase
 
 My github user page can be found at: www.github.com/zelmundo94
 
-Stay tuned for new posts and projects coming soon!
+Here is where you can find a of my latest posts and projects. Have fun exploring!

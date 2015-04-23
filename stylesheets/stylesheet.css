@@ -440,7 +440,7 @@ body {
 
 p {
   margin-top: 0;
-  border-style: ridge; border-color: #0099CC; border-width: thick;
+  border-style: ridge; border-color: #2e7bcf; border-width: thick; border-collapse: separate; border-spacing: 20px, 50px;
 }
 
 a {
@@ -495,7 +495,7 @@ header h2 {
 #main-content {
   float: left;
   width: 690px;
-  border-style: ridge; border-color: #0099CC; border-width: thick;
+    border-style: ridge; border-color: #2e7bcf; border-width: thick; border-collapse: separate; border-spacing: 20px, 50px;
 }
 
 #main-content img {
@@ -625,7 +625,7 @@ form {
   color: #474747;
   text-indent: 6px;
   letter-spacing: -1px;
-  border: 2px; border-style: ridge; border-color: #0099CC; border-width: thick;
+  
 }
 
 #main-content h1:before {
@@ -798,7 +798,7 @@ footer a:hover {
   }
   #main-content {
     width: 490px;
-    border: 2px; border-style: ridge; border-color: #0099CC; border-width: thick;
+    
   }
   #main-content h1:before,
   #main-content h2:before,
@@ -857,7 +857,7 @@ footer a:hover {
   aside#sidebar {
     float: none;
     width: 100% ! important;
-    p {border-style: ridge; border-color: #0099CC; border-width: thick;}
+    border-style: ridge; border-color: #2e7bcf; border-width: thick; border-collapse: separate; border-spacing: 20px, 50px;
   }
   aside#sidebar {
     min-height: 0;

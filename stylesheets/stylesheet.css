@@ -18,8 +18,8 @@ html {
 
 body {
   margin: 0;
-  p.ridge {border-style: ridge;}
-  p.ridge {border-color: #0099CC;}
+ 
+ 
 }
 
 /* HTML5 display definitions
@@ -483,6 +483,7 @@ header h2 {
   position: relative;
   width: 940px;
   margin: 0 auto;
+  
 }
 
 #content-wrapper {
@@ -794,6 +795,7 @@ footer a:hover {
   }
   #main-content {
     width: 490px;
+     p.ridge {border-style: ridge; border-color: #0099CC; border-width: thick;}
   }
   #main-content h1:before,
   #main-content h2:before,
@@ -852,6 +854,7 @@ footer a:hover {
   aside#sidebar {
     float: none;
     width: 100% ! important;
+     p.ridge {border-style: ridge; border-color: #0099CC; border-width: thick;}
   }
   aside#sidebar {
     min-height: 0;

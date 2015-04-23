@@ -441,6 +441,7 @@ body {
 p {
   margin-top: 0;
   border-style: ridge; border-color: #2e7bcf; border-width: initial; border-collapse: separate; border-spacing: 25px, 50px;
+  text-indent: 50px; 
 }
 
 a {

@@ -440,7 +440,7 @@ body {
 
 p {
   margin-top: 0;
-  border-style: ridge; border-color: #2e7bcf; border-width: thin; border-collapse: separate; border-spacing: 20px, 50px;
+  border-style: ridge; border-color: #2e7bcf; border-width: initial; border-collapse: separate; border-spacing: 20px, 50px;
 }
 
 a {

@@ -494,6 +494,7 @@ header h2 {
 #main-content {
   float: left;
   width: 690px;
+   p.ridge {border-style: ridge; border-color: #0099CC; border-width: thick;}
 }
 
 #main-content img {

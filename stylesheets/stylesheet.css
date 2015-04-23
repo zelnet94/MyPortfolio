@@ -441,7 +441,7 @@ body {
 p {
   margin-top: 0;
   border-style: ridge; border-color: #2e7bcf; border-width: initial; border-collapse: separate; border-spacing: 25px, 50px;
-  text-indent: 50px; 
+ 
 }
 
 a {
@@ -642,7 +642,7 @@ form {
   font-size: 22px;
   font-weight: bold;
   color: #474747;
-  text-indent: 4px;
+  text-indent: 6px;
 }
 #main-content h2:before {
   padding-right: 0.3em;
@@ -658,7 +658,7 @@ form {
   font-size: 18px;
   font-weight: bold;
   color: #474747;
-  text-indent: 3px;
+  text-indent: 6px;
 }
 
 #main-content h3:before {
@@ -674,7 +674,7 @@ form {
   font-size: 15px;
   font-weight: bold;
   color: #474747;
-  text-indent: 3px;
+  text-indent: 6px;
 }
 
 h4:before {
@@ -689,7 +689,7 @@ h4:before {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 14px;
   color: #474747;
-  text-indent: 3px;
+  text-indent: 6px;
 }
 h5:before {
   padding-right: 0.3em;
@@ -703,7 +703,7 @@ h5:before {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: .8em;
   color: #474747;
-  text-indent: 3px;
+  text-indent: 6px;
 }
 h6:before {
   padding-right: 0.3em;

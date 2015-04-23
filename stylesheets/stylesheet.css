@@ -440,7 +440,7 @@ body {
 
 p {
   margin-top: 0;
-  border-style: ridge; border-color: #2e7bcf; border-width: thick; border-collapse: separate; border-spacing: 20px, 50px;
+  border-style: dashed; border-color: #2e7bcf; border-width: thick; border-collapse: separate; border-spacing: 20px, 50px;
 }
 
 a {
@@ -495,7 +495,7 @@ header h2 {
 #main-content {
   float: left;
   width: 690px;
-    border-style: ridge; border-color: #2e7bcf; border-width: thick; border-collapse: separate; border-spacing: 20px, 50px;
+    border-style: dashed; border-color: #2e7bcf; border-width: thick; border-collapse: separate; border-spacing: 20px, 50px;
 }
 
 #main-content img {
@@ -857,7 +857,7 @@ footer a:hover {
   aside#sidebar {
     float: none;
     width: 100% ! important;
-    border-style: ridge; border-color: #2e7bcf; border-width: thick; border-collapse: separate; border-spacing: 20px, 50px;
+    border-style: dashed; border-color: #2e7bcf; border-width: thick; border-collapse: separate; border-spacing: 20px, 50px;
   }
   aside#sidebar {
     min-height: 0;

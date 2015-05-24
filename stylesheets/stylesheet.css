@@ -192,7 +192,7 @@ img {
  */
 
 svg:not(:root) {
-  overflow: hidden;
+  overflow: auto;
 }
 
 /* Grouping content
@@ -266,7 +266,7 @@ textarea {
  */
 
 button {
-  overflow: visible;
+  overflow: auto;
 }
 
 /**

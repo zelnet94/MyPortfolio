@@ -774,7 +774,7 @@ footer a:hover {
 }
 
 .clearfix {display: inline-block;}
-* html .clearfix {height: 1%;}
+* html .clearfix {height: auto;}
 .clearfix {display: block;}
 
 /* #Media Queries

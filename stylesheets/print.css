@@ -224,5 +224,5 @@ footer a {
 }
 
 .clearfix {display: inline-block;}
-* html .clearfix {height: 1%;}
+* html .clearfix {height: none;}
 .clearfix {display: block;}

@@ -165,7 +165,7 @@ sup {
   position: relative;
   font-size: 75%;
   line-height: 0;
-  vertical-align: baseline;
+  vertical-align: inherit;
 }
 
 sup {

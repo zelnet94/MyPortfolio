@@ -1,6 +1,6 @@
-DHCP - Denzel's Homemade Computer Science Portfolio 
+<big>DHCP - Denzel's Homemade Computer Science Portfolio 
 
-The portfolio site is currently in testing phase
+The portfolio site is currently in testing phase</big>
 
 <b>Ello.</b>
 

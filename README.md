@@ -1,4 +1,4 @@
-## DHCP - Denzel's Homemade Computer Science Portfolio 
+## DHCP - Denzel's Homemade Computer Portfolio 
 
 *The portfolio site is currently in testing phase*
 

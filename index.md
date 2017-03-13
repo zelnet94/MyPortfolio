@@ -10,7 +10,6 @@ A website of all my work and thoughts on tech, media. etc.
 
 [View the Project on GitHub <small>zelmundo94/MyPortfolio</small>](https://github.com/zelmundo94/MyPortfolio)
 
-   <i class="fa fa-file-pdf-o"></i> [View Resume](Resume/Denzel_Ketter_Resume.pdf)
 *   [Download **ZIP File**](https://github.com/zelmundo94/MyPortfolio/zipball/master)
 *   [Download **TAR Ball**](https://github.com/zelmundo94/MyPortfolio/tarball/master)
 *   [View On **GitHub**](https://github.com/zelmundo94/MyPortfolio)
